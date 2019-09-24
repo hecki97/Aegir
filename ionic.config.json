@@ -1,0 +1,7 @@
+{
+  "name": "aegir",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
